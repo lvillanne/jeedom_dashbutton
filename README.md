@@ -10,3 +10,6 @@ Attention, elle reste donc incompatible avec les autres plugins nécessitant une
 ## Installation
 
 Lors de l'installation, il est important de donner l'identifiant **dashbutton** au plugin.
+
+Pour le premier test, après création du premier bouton j'ai dû lancer le démon avec la commande suivante :
+/var/www/html/plugins% node dashbutton/resources/dashbutton.js
